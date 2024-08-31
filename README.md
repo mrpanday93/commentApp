@@ -8,6 +8,6 @@ App for fetching comment from url and csv and storing them
 - Download repository and go inside it
 - run "npm install"
 - now rum "npm start"
-- Visit http://localhost:300 for homepage of app
+- Visit http://localhost:3000 for homepage of app
 - Route /populate is for populating data
 - Route /search is for searching data which take body parameter name, email, body, limit and page for search.
